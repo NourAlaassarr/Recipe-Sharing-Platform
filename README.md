@@ -1,1 +1,1 @@
-# AI-Recipe-Finder
+# RecipeSharingPlatform
